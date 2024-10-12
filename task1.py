@@ -26,4 +26,5 @@ def solution(a, b, c) -> Union[Tuple[float, float], Tuple[float], None]:
 
 print(solution())
 
-# this code was edited
+
+# changed
