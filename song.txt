@@ -6,3 +6,5 @@ Changed after committed in GitHub
 Edited in github
 
 Changed once again
+
+Changed in feature branch
